@@ -1,5 +1,8 @@
 ## Hi there 👋
 I'm IcyDesert, nice to meet you!
+
+- 🌱 I’m currently learning *Computer Networking: A Top-Down Approach*/《计算机网络：自顶向下方法》
+
 <!--
 **IcyDesert/IcyDesert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
