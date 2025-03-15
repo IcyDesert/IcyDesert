@@ -1,8 +1,10 @@
 ## Hi there 👋
 I'm IcyDesert, nice to meet you!
 
-- 🌱 Currently learning *Computer Networking: A Top-Down Approach*/《计算机网络：自顶向下方法》
+- 🌱 Currently learning *Computer Networking: A Top-Down Approach*. 《计算机网络：自顶向下方法》学习中。
 - ⚡ Very interested in survival-circuit machines in *Minecraft*.  《我的世界》生电流派玩家。
+
+
 <!--
 **IcyDesert/IcyDesert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
