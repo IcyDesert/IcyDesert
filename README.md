@@ -1,9 +1,10 @@
 ## Hi there 👋
 I'm IcyDesert, nice to meet you!
 
-- 🔭 Currently working on a project based on WeChat Miniprogram, responsible for backend. 正在参与一个微信小程序的后端开发。
+- 🔭 Currently working on a project based on WeChat Miniprogram, responsible for backend. 作为后端开发者，参与一微信小程序项目。
 - 🌱 Currently learning *Computer Networking: A Top-Down Approach*. 《计算机网络：自顶向下方法》学习中。
-- 🤔 Preparing for a QQ bot written in golang. 想用 Go 语言写个 QQ 机器人。
+- 🤔 Preparing for a QQ bot written in golang. 想用 Go 语言写 QQ 机器人。
+- 🤔 Seeking for help with containers such as docker. 想学容器技术，但不知从何学起。
 - ⚡ Very interested in survival-circuit machines in *Minecraft*.  《我的世界》生电流派玩家。
 
 
