@@ -3,9 +3,9 @@ I'm IcyDesert, nice to meet you!
 
 - 🌱 Currently working on a project based on WeChat Miniprogram, responsible for backend. 作为后端开发者，参与一微信小程序项目。
 - 💭 Curious about *Computer System:A Programmer's Perspective*, especially its experiments like BombLab. \
-  💭 想学 CSAPP，尤其想做其中的实验。
-- 🤔 Preparing for a QQ bot written in golang. 想用 Go 语言写 QQ 机器人。
-- 🎈 Seeking for help with containers such as docker. 想学容器技术，但不知从何学起。
+  💭 想学 CSAPP，尤其想做其中如 BombLab 等的实验。
+- 🤔 Conceiving a QQ bot written in golang. 正在构思 Go 语言写的 QQ 机器人。
+- 🎈 Currently learning Docker. 正在学习 Docker。
 - ⚡ Very interested in survival-circuit machines in *Minecraft*.  《我的世界》生电流派玩家。
 
 
