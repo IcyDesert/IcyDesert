@@ -7,7 +7,9 @@ I'm IcyDesert, nice to meet you!
 - 🤔 Conceiving a QQ bot written in golang. 正在构思 Go 语言写的 QQ 机器人。
 - 🎈 Currently learning Docker. 正在学习 Docker。
 - ⚡ Very interested in survival-circuit machines in *Minecraft*.  《我的世界》生电流派玩家。
+- 🏄 Member of HITSZ OpenAuto, which owns and operates site [hoa.moe](hoa.moe). HITSZ 自动化课程攻略共享计划成员，维护着项目网站 [hoa.moe](hoa.moe)。
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HITSZ-OpenAuto&repo=hoa-moe)](https://github.com/HITSZ-OpenAuto/hoa-moe)
 
 <!--
 **IcyDesert/IcyDesert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
