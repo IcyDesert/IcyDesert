@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm IcyDesert, nice to meet you!
 
-- 🌱 Currently working on a project based on WeChat Miniprogram, responsible for backend. 作为后端开发者，参与一微信小程序项目。
+- 🌱 Currently working on a project based on WeChat Miniprogram, responsible for Go backend. 作为 Go 后端开发者，参与一微信小程序项目。
 - 💭 Curious about *Computer System:A Programmer's Perspective*, especially its experiments like BombLab. \
   💭 想学 CSAPP，尤其想做其中如 BombLab 等的实验。
 - 🤔 Conceiving a QQ bot written in golang. 正在构思 Go 语言写的 QQ 机器人。
