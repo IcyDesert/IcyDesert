@@ -4,8 +4,7 @@ I'm IcyDesert, nice to meet you!
 - 🌱 Currently working on a project based on WeChat Miniprogram, responsible for Go backend. 作为 Go 后端开发者，参与一微信小程序项目。
 - 💭 Curious about *Computer System:A Programmer's Perspective*, especially its experiments like BombLab. \
   💭 想学 CSAPP，尤其想做其中如 BombLab 等的实验。
-- 🤔 Conceiving a QQ bot written in golang. 正在构思 Go 语言写的 QQ 机器人。
-- 🎈 Currently learning Docker. 正在学习 Docker。
+- 🎈 Currently learning container-related techniques. 正在学习容器相关技术。
 - ⚡ Very interested in survival-circuit machines in *Minecraft*.  《我的世界》生电流派玩家。
 - 🏄 Member of HITSZ OpenAuto, which owns and operates site [hoa.moe](https://hoa.moe). HITSZ 自动化课程攻略共享计划成员，维护着项目网站 [hoa.moe](https://hoa.moe)。
 
