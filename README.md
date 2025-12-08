@@ -8,7 +8,7 @@ I'm IcyDesert, nice to meet you!
 - ⚡ Very interested in survival-circuit machines in *Minecraft*.  《我的世界》生电流派玩家。
 - 🏄 Member of HITSZ OpenAuto, which owns and operates site [hoa.moe](https://hoa.moe). HITSZ 自动化课程攻略共享计划成员，维护着项目网站 [hoa.moe](https://hoa.moe)。
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HITSZ-OpenAuto&repo=hoa-moe)](https://github.com/HITSZ-OpenAuto/hoa-moe)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HITSZ-OpenAuto&repo=hoa-moe)](https://github.com/HITSZ-OpenAuto/hoa-moe)
 
 <!--
 **IcyDesert/IcyDesert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IcyDesert&count_private=true&show_icons=true&theme=solarized-light&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=IcyDesert&count_private=true&show_icons=true&theme=solarized-light&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcyDesert&layout=compact&count_private=true&hide_border=true&theme=react&size_weight=0.5&count_weight=0.5&&exclude_repo=blog,blog_draft" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IcyDesert&layout=compact&count_private=true&hide_border=true&theme=react&size_weight=0.5&count_weight=0.5&&exclude_repo=blog,blog_draft" />
 </a>
 </p>
