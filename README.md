@@ -6,9 +6,8 @@ I'm IcyDesert, nice to meet you!
   💭 想学 CSAPP，尤其想做其中如 BombLab 等的实验。
 - 🎈 Currently learning container-related techniques. 正在学习容器相关技术。
 - ⚡ Very interested in survival-circuit machines in *Minecraft*.  《我的世界》生电流派玩家。
-- 🏄 Member of HITSZ OpenAuto, which owns and operates site [hoa.moe](https://hoa.moe). HITSZ 自动化课程攻略共享计划成员，维护着项目网站 [hoa.moe](https://hoa.moe)。
-
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=HITSZ-OpenAuto&repo=hoa-moe)](https://github.com/HITSZ-OpenAuto/hoa-moe)
+- 🏄 Member of HITSZ OpenAuto, which owns and operates site [hoa.moe](https://hoa.moe). \
+  🏄 HITSZ 自动化课程攻略共享计划成员，维护着项目网站 [hoa.moe](https://hoa.moe)。
 
 <!--
 **IcyDesert/IcyDesert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
