@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IcyDesert&layout=compact&count_private=true&hide_border=true&theme=react&size_weight=0.5&count_weight=0.5&&exclude_repo=blog,blog_draft" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IcyDesert&layout=compact&count_private=true&hide_border=true&theme=react&size_weight=0.5&count_weight=0.5&&exclude_repo=blog,blog_draft&hide=MDX" />
 </a>
 </p>
