@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=IcyDesert&count_private=true&show_icons=true&theme=solarized-light&show_icons=true" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=IcyDesert&count_private=true&show_icons=true&theme=solarized-light&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IcyDesert&layout=compact&count_private=true&hide_border=true&theme=react&size_weight=0.5&count_weight=0.5&&exclude_repo=blog,blog_draft&hide=MDX" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=IcyDesert&layout=compact&count_private=true&hide_border=true&theme=react&size_weight=0.5&count_weight=0.5&&exclude_repo=blog,blog_draft&hide=MDX" />
 </a>
 </p>
